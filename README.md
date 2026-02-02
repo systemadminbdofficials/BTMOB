@@ -15,6 +15,7 @@ Host List Management: Server IPs must be added to the APK Maker > Host List (Las
 
 Security Warning: The "Export" function for the server list contains raw configuration data. Do not share the exported file.
 
+
 🛠️ New Exploitation & Network Tools
 DDOS Attacker: Integrated support for 7 attack vectors, capable of leveraging single or multiple client nodes.
 
@@ -23,6 +24,7 @@ Remote SSH/TELNET: Advanced terminal access for network devices (e.g., routers a
 Silent XMR Miner: A background Monero (XMR) mining utility for resource utilization.
 
 File Manager Pro: Added a remote "Download from URL" feature directly within the file system manager.
+
 
 📱 Stealth, Persistence & Monitoring
 Enhanced Live Screen: Full support for screen rotation with an added Screen Block feature for total control.
@@ -34,6 +36,7 @@ Call/SMS Interception: When set as the default SMS/Call app, it provides full pa
 Pin Grabber Mode: A specialized tracking mode that records PIN entries on specific, user-selected applications.
 
 Auto-Resume Protocol: Automated reconnection for high-priority streams: Files, Camera, Screen, Microphone, and Keylogger.
+
 
 🏗️ Advanced APK Builder & Dropper Mechanics
 Plugin/Dropper Mode: Use legitimate Play Store apps as carriers.
@@ -50,10 +53,12 @@ Optional encryption for the main APK within the dropper assets.
 
 Optimization: Reduced CPU overhead to minimize thermal throttling, though battery consumption remains high for 24/7 uptime.
 
+
 🔍 Refined Keylogger & ADB Tools
 Advanced Keylogging: Now features action filtering, search functionality, and a modernized layout.
 
 BTMOB Integration: Quick APK deployment via ADB with a wide range of customizable installation parameters.
+
 
 ⚠️ Technical Note: If "Protect APK" is disabled and Google Play prompts to "Scan this app," selecting "Scan" will execute the bypass logic.
 
